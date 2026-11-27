@@ -1,0 +1,7 @@
+Git history before merging session1-notes
+=========================================
+
+* 36daa08 (HEAD -> session1-notes) Add Session 1 notes
+* 4d4ef4a (main) Add .gitignore
+* cccb209 Add student name to README
+* 117fa39 Add README for SCM evidence repository

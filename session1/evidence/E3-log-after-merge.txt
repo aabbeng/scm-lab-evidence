@@ -1,0 +1,9 @@
+Git history immediately after the fast-forward merge
+====================================================
+
+* 36daa08 (HEAD -> main, session1-notes) Add Session 1 notes
+* 4d4ef4a Add .gitignore
+* cccb209 Add student name to README
+* 117fa39 Add README for SCM evidence repository
+
+After this evidence was captured, the merged session1-notes branch was deleted.

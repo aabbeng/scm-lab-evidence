@@ -1,0 +1,11 @@
+GitHub Skills: Introduction to GitHub
+=====================================
+
+Repository: https://github.com/aabbeng/skills-introduction-to-github
+Completion issue: https://github.com/aabbeng/skills-introduction-to-github/issues/1
+Branch: my-first-branch
+Commit message: Add PROFILE.md
+Pull request: #2 - https://github.com/aabbeng/skills-introduction-to-github/pull/2
+
+All automated workflow checks for Steps 0 through 4 completed successfully.
+The exercise issue is closed and pull request #2 is merged.

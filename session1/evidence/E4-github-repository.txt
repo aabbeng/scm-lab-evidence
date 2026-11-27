@@ -1,0 +1,7 @@
+GitHub repository evidence
+==========================
+
+Repository: https://github.com/aabbeng/scm-lab-evidence
+Commit history: https://github.com/aabbeng/scm-lab-evidence/commits/main/
+
+The history includes the teammate commit named "Add teammate file".
