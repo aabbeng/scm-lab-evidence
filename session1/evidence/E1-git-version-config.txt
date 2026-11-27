@@ -2,6 +2,6 @@ Git installation and identity check
 ===================================
 
 git version 2.51.1.windows.1
-user.name=aabbeng
+user.name=Alyssa Annabelle binti James Pekan
 user.email=[configured locally; redacted from public evidence]
 init.defaultbranch=main
