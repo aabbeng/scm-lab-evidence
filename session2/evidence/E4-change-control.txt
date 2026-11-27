@@ -1,0 +1,11 @@
+Change-control evidence
+=======================
+
+Issue: #1 https://github.com/aabbeng/scm-lab-evidence/issues/1
+Pull request: #2 https://github.com/aabbeng/scm-lab-evidence/pull/2
+Comment review: https://github.com/aabbeng/scm-lab-evidence/pull/2#pullrequestreview-6088333877
+Inline review comment: https://github.com/aabbeng/scm-lab-evidence/pull/2#discussion_r4719539377
+Author reply: https://github.com/aabbeng/scm-lab-evidence/pull/2#discussion_r4719542742
+Merge commit: 010e7ef
+
+The pull request description contained `Closes #1`. After pull request #2 was merged into main, GitHub automatically closed issue #1.

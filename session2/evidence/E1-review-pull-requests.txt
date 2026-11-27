@@ -1,0 +1,12 @@
+GitHub Skills: Review Pull Requests
+===================================
+
+Repository: https://github.com/aabbeng/skills-review-pull-requests
+Completion issue: https://github.com/aabbeng/skills-review-pull-requests/issues/1
+Pull request: #2 https://github.com/aabbeng/skills-review-pull-requests/pull/2
+Reviewer: aabbeng (Alyssa Annabelle binti James Pekan)
+Review type: Comment
+Review text: Looks good to me. I think this is more intuitive. Nice work!
+Suggested change: Reword the hidden game-over heading to make replay instructions friendlier.
+Suggestion: https://github.com/aabbeng/skills-review-pull-requests/pull/2#discussion_r4719509468
+Applied commit: Make the end game experience more friendly

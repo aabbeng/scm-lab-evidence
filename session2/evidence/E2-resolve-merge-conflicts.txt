@@ -1,0 +1,8 @@
+GitHub Skills: Resolve Merge Conflicts
+======================================
+
+Repository: https://github.com/aabbeng/skills-resolve-merge-conflicts
+Completion issue: https://github.com/aabbeng/skills-resolve-merge-conflicts/issues/1
+Pull request: #2 https://github.com/aabbeng/skills-resolve-merge-conflicts/pull/2
+
+The conflict was in resume.md between main and my-resume. Both branches changed the final experience line from the same base: main added "Built internal tools" while my-resume added "Contributed to open source projects." I kept the my-resume version because the exercise explicitly identified it as the intended compare-branch content. The conflict markers and the unwanted main version were removed before the resolution was committed and merged.

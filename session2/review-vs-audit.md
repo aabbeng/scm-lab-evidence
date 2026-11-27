@@ -1,0 +1,3 @@
+# Code Review Versus Configuration Audit
+
+The Comment review on [pull request #2](https://github.com/aabbeng/scm-lab-evidence/pull/2) checked one proposed change against issue #1, including its scope, readability, traceability, and absence of secrets. A formal configuration audit is a planned and independent check at a baseline or release: an FCA checks that the product satisfies its functional and performance requirements, while a PCA checks that the as-built product matches its approved technical documentation and product baseline. This distinction follows [NASA SWE-084 Configuration Audits](https://swehb.nasa.gov/spaces/SWEHBVD/pages/102695466/SWE-084+-+Configuration+Audits).

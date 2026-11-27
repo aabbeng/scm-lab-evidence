@@ -1,0 +1,25 @@
+Local merge-conflict evidence
+=============================
+
+Conflict markers observed in session2/conflict-demo.md:
+
+<<<<<<< HEAD
+Deployment target: staging
+=======
+Deployment target: production
+>>>>>>> branch-b
+
+Resolved content:
+
+Deployment target: staging (production after approval)
+
+History immediately after resolution:
+
+*   4479bea (HEAD -> main) Resolve conflict: staging first, production after approval
+|\
+| * 4791bc1 (branch-b) Set deployment target to production
+* | 039a233 (branch-a) Set deployment target to staging
+|/
+* cb7580d Add conflict demo base file
+
+Commit 4479bea is the merge commit with two parents.
